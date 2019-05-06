@@ -1,0 +1,14 @@
+{
+  "name": "redversioningfortest",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "69ca6d0f",
+  "theme": "Anchor",
+  "id": "redversioningfortest",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
