@@ -1,6 +1,13 @@
 {
   "id": "__BASE__",
   "name": "redversioningfortest",
-  "screens": [],
-  "startScreen": null
+  "screens": [
+    {
+      "id": "home",
+      "name": "Home",
+      "sourceScreenId": "blank",
+      "sourceAppId": "default"
+    }
+  ],
+  "startScreen": "home"
 }
