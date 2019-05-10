@@ -20,14 +20,9 @@ declare module 'app/menu/menu' {
 declare module 'app/app.screens' {
 	/***  Generated file, do not change.  */
 	import { MenuComponent } from 'app/menu/menu';
-	import { home_PhonePortrait } from 'pages/home/PhonePortrait/home';
 	export class Screens {
 	    static declarations: (typeof MenuComponent)[];
-	    static mapping: {
-	        'home': {
-	            PhonePortrait: typeof home_PhonePortrait;
-	        };
-	    };
+	    static mapping: {};
 	}
 
 }
